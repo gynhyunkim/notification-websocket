@@ -11,6 +11,8 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+  <script>
+    $End$
+  </script>
   </body>
 </html>
