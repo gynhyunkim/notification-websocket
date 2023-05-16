@@ -12,4 +12,5 @@
         <property name="suffix" value=".jsp"></property>
         <property name="order" value="1" />
     </bean>
+    <mvc:resources mapping="/resources/**" location="/resources/" />
 </beans>
